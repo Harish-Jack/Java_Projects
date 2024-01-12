@@ -1,3 +1,4 @@
+//bank interface
 package BankManagement;
 interface Bank
 {
